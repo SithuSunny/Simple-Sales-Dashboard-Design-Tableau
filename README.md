@@ -23,6 +23,8 @@ Create an interactive Tableau dashboard to analyze sales performance by product,
 ##  Files Included
 - `sales_dashboard.png` – Screenshot of final dashboard
 - `README.md` – Project documentation and insights
+- `Sales performance analysis.twb`
+- `superstore.csv`
 
 ##  Dashboard Outcome
 This project shows how interactive visuals help business users understand performance across time, location, and product categories.
